@@ -7,6 +7,38 @@ body{
     background-color: #F3F1FF;
 }
 
+header{
+    background-color: #562EFF;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+ 
+}
+
+.header-name{
+    display: flex;
+    align-items: center;
+    
+}
+
+.header-name img{
+    margin-right: 10px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    
+}
+
+.menu a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 0 35px;
+}
+
 main{
     display: flex;
     align-items: center;
